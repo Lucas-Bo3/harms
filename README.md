@@ -31,4 +31,3 @@ Analysis
 6. Draw arcs
 7. Click ‘run’ to create report
 
-![2286d2b414fe0dfea3075a9b5ed6a5f](../../Documents/JAVA 笔记/图片/2286d2b414fe0dfea3075a9b5ed6a5f.jpg)
