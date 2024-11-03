@@ -23,3 +23,12 @@ python harmsv4.2_macos.py
 
 Analysis
 
+1. Create nodes and arcs
+2. Set up attackers and targets
+3. Open the lower layer
+4. Create vulnerabilities Outputs initial values
+5. Save attack tree
+6. Draw arcs
+7. Click ‘run’ to create report
+
+![2286d2b414fe0dfea3075a9b5ed6a5f](../../Documents/JAVA 笔记/图片/2286d2b414fe0dfea3075a9b5ed6a5f.jpg)
