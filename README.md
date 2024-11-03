@@ -31,4 +31,4 @@ Analysis
 6. Draw arcs
 7. Click ‘run’ to create report
 
-![Analysis](.finalimg.jpg)
+![Analysis](./finalimg.jpg)
